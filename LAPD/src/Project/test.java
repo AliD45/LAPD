@@ -2,7 +2,7 @@ package Project;
 
 public class test {
 
-	kadfshdfbkjsdvksjdnvlsnkdv
-	dsvjsdvnsv
-	s
+	public static void main(String[] args){
+		System.out.println("test");
+	}
 }
